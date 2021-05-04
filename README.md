@@ -1,3 +1,6 @@
+# Stok Takip Programı Sitesi
+Siteyi incelemek için [tıklayınız](https://eloquent-hugle-f2c8f8.netlify.app/)
+
 # vue-login-signup-ui
 In this tutorial, we are going to create responsive Login & Signup UI screens using the Bootstrap 4 CSS framework in the Vue.js application.
 
