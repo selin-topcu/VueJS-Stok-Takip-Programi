@@ -24,7 +24,7 @@ html,
   left: 0;
   z-index: 1030;
 }
-.navbar{
+.navbar {
   min-width: 450px;
 }
 .navbar-light {
@@ -85,7 +85,7 @@ label {
   font-size: 1.5em;
   color: #222222;
 }
-ul{
+ul {
   list-style-type: none;
 }
 .social-icons ul {
@@ -138,4 +138,10 @@ a:hover {
 .btn-grn:hover {
   background-color: #26dda0;
   color: #ffffff;
+}
+.nav-link {
+  color: #26dda0;
+}
+.nav-link:hover {
+  color: #23c48e;
 }

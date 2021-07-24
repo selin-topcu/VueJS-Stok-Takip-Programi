@@ -23,17 +23,12 @@
                 <b-nav vertical>
                   <ul>
                     <li>
-                      <b-nav-item active @click="hide">Menü 1</b-nav-item>
+                      <b-nav-item active @click="hide">Menü</b-nav-item>
                     </li>
                     <ul>
                       <li>
-                        <b-nav-item href="#link-1" @click="hide"
-                          >Menü 1.1</b-nav-item
-                        >
-                      </li>
-                      <li>
-                        <b-nav-item href="#link-2" @click="hide"
-                          >Menü 1.2</b-nav-item
+                        <b-nav-item href="/categories" @click="hide"
+                          >Kategoriler</b-nav-item
                         >
                       </li>
                     </ul>
@@ -52,7 +47,6 @@
               <template #button-content>
                 <b-icon icon="gear-fill" aria-hidden="true"></b-icon> Ayarlar
               </template>
-              <b-dropdown-item>Hesabım</b-dropdown-item>
               <b-dropdown-item v-on:click="logout()">Çıkış Yap</b-dropdown-item>
             </b-dropdown>
           </div>
