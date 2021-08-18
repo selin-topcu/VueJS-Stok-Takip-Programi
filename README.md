@@ -1,5 +1,5 @@
 # Stok Takip Programı Sitesi
-Siteyi incelemek için [tıklayınız](https://eloquent-hugle-f2c8f8.netlify.app/)
+Sitenin ekran videosunu izlemek için [tıklayınız](https://drive.google.com/file/d/1VFjCmgSkmS0KVkIJxpW6Oe1U1otgl0Uq/view)
 
 ## Project setup
 ```
